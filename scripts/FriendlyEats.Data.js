@@ -13,6 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
+// https://firebase.google.com/codelabs/firestore-web#0
 'use strict';
 
 FriendlyEats.prototype.addRestaurant = function(data) {
